@@ -2,7 +2,8 @@
   "name": "heroku-statsd",
   "version": "0.0.1",
   "dependencies": {
-    "statsd": "0.7.1"
+    "statsd": "0.7.1",
+    "statsd-librato-backend": "0.1.2"
   },
   "engines": {
     "node": "0.10.x",
