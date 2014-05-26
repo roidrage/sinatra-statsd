@@ -1,0 +1,3 @@
+{
+  dumpMessages: true
+}
