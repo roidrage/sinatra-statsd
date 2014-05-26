@@ -1,4 +1,5 @@
 require 'sinatra'
+require 'statsd'
 
 $statsd = Statsd.new 'localhost', 9125
 
